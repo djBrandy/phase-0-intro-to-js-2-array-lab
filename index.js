@@ -1,6 +1,4 @@
 // Write your solution here!
-
-// Write your solution here!
 const cats = ["Milo", "Otis", "Garfield"];
 function destructivelyAppendCat(name){
     cats.push(name);
@@ -37,9 +35,3 @@ function removeFirstCat(){
     const newCatsArray = cats.slice(1);
     return newCatsArray;
 }
-
-
-
-
-
-
